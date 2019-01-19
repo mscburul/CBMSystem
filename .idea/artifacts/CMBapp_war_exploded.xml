@@ -59,7 +59,6 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.9.8" />
           <element id="library" level="project" name="Maven: org.hibernate.validator:hibernate-validator:6.0.14.Final" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.1.4.RELEASE" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.13" />
           <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.3.2" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:5.1.4.RELEASE" />
@@ -73,6 +72,8 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.1.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:2.1.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.1.3.RELEASE" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">
