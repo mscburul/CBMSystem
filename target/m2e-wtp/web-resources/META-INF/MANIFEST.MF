@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CMBapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: User
+Implementation-Vendor-Id: kg.apps
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CMBapp
+Created-By: Maven Integration for Eclipse
+
